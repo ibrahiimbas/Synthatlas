@@ -1,13 +1,20 @@
 # Synthatlas
 
-<p align = "center">
- 
- ### [Download latest version](https://github.com/ibrahiimbas/Synthatlas./releases/tag/v0.3.5)
+<p align="center">
+
+Texture Atlas & Sprite Workflow Tool
 
 </p>
- 
-[![Status](https://img.shields.io/badge/version-beta_0.3.5-cyan?style=flat)](https://github.com/ibrahiimbas/Synthatlas.)
+
+<p align="center">
+
+##  Download
+
+👉 **[Latest Release](https://github.com/ibrahiimbas/Synthatlas./releases/latest)**
+
 </p>
+
+[![Status](https://img.shields.io/badge/version-beta_0.3.5-cyan?style=flat)](https://github.com/ibrahiimbas/Synthatlas.)
 
 **A modern texture atlas and sprite workflow tool for indie game developers.**
 
@@ -154,11 +161,21 @@ Synthatlas is a desktop application built with WPF (.NET 8) that helps game deve
 
 ### Requirements
 
-- Windows 10 or later
+- Windows 10 / 11
+
+- 64-bit
+
+- .NET Runtime not required (self-contained)
 
 ### Build & Run
 
-Open `Synthatlas.exe` on downloaded file.
+- Download the latest ZIP from Releases.
+
+- Extract the ZIP to any folder.
+
+- Run Synthatlas.exe.
+
+- No installation required.
 
 ---
 
@@ -533,6 +550,14 @@ Workspaces are saved as `.shat` JSON files:
 - MVVM architecture
 - GPU-accelerated grid overlay via `DrawingBrush + TileMode.Tile`
 - Snapshot-based undo/redo with in-memory bitmap cache
+
+---
+
+## License
+
+- Synthatlas is free to use.
+
+- The source code is not publicly available.
 
 ---
 
